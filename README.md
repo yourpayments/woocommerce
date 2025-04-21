@@ -5,7 +5,7 @@
 -------------
 ## Установка
 
-[📥 Скачать ZIP-архив с плагином](dist/ypmn-payment.zip) | 
+[📥 Скачать ZIP-архив с плагином](dist/) | 
 [▶️ Видео-инструкция на RuTube](https://rutube.ru/video/private/dcf8f4c7405bcd07adbaa9fb0c780bc9/?p=U01pLsYbffrOL0o08uqxFw)
 
 
